@@ -17,7 +17,8 @@ It includes:
 Docker Flask/
 │── app.py
 │── Dockerfile
-│── docker-compose.yml
+│── docker-compose.yml![Uploading Screenshot (10).png…]()
+
 │── requirements.txt
 │── requirement.txt          # duplicate (for testing)
 │── run.ps1                  # PowerShell automation script
