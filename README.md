@@ -1,4 +1,4 @@
- Dockerized Python Flask Application
+Dockerized Python Flask Application
 
 This project demonstrates how to **containerize a simple Python Flask application using Docker**.
 It includes:
@@ -178,9 +178,7 @@ curl localhost:5000/health
 
 ![Screenshot](./screenshots/docker-logs.png)
 
-> *(Replace placeholder images with your actual screenshots.)*
 
----
 
 ## 📝 Requirements
 
