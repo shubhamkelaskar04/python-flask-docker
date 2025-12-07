@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Docker
+docker-compose.override.yml
+**/docker-compose.override.yml
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Python - pip cache
+pip-log.txt
+
+# Ignore secrets
+*.pem
+*.key
+.env.local
+
+# Ignore Docker Desktop files
+.docker/
+
+# Misc
+.DS_Store
+
+# Don't ignore requirements or Dockerfile
+!requirements.txt
+!Dockerfile
